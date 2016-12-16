@@ -1,2 +1,2 @@
 # mini-youtube
- a mini version of react built with youtube 
+ a mini version of youtube built with react.
